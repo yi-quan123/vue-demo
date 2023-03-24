@@ -13,7 +13,7 @@ const Rule = () => import('@/views/Params/Rule.vue')
 const Package = () => import('@/views/Params/Package.vue')
 
 
-
+//我是测试的注释
 Vue.use(VueRouter)
 
 const routes = [{
